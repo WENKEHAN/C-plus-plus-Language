@@ -1,10 +1,11 @@
 #include<iostream>
 using namespace std;
+int MAX(int& a, int& b) {
+    return a > b ? a : b;
+}
 int main(){
-    int a=10;
-    int b=100;
-    cout<<a<<b;
-    int c=1000;
-    int d = 9999;
+    int a, b;
+    cin >> a >> b;
+    cout << MAX(&a, &b) << endl;
     return 0;
 }
