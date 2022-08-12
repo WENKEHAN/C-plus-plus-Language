@@ -1,3 +1,4 @@
+#if 0
 #include <iostream>
 #include <string>
 #include<fstream>
@@ -78,3 +79,4 @@ int main() {
 	ef.FileEncrypt("src.txt", "des.txt");
 	return 0;
 }
+#endif

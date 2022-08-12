@@ -1,0 +1,20 @@
+﻿  MyVector.cpp
+D:\code\GitCode\源码\MyVector\MyVector.cpp(25,11): error C2059: 语法错误:“{”
+D:\code\GitCode\源码\MyVector\MyVector.cpp(93): message : 查看对正在编译的 类 模板 实例化“MyVector<_Ty>”的引用
+D:\code\GitCode\源码\MyVector\MyVector.cpp(25,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+D:\code\GitCode\源码\MyVector\MyVector.cpp(70,1): error C2544: 应输入运算符“()”的“)”
+D:\code\GitCode\源码\MyVector\MyVector.cpp(70,38): error C2146: 语法错误: 缺少“]”(在标识符“pos”的前面)
+D:\code\GitCode\源码\MyVector\MyVector.cpp(70,28): error C2275: “MyVector<_Ty>::size_type”: 将此类型用作表达式非法
+D:\code\GitCode\源码\MyVector\MyVector.cpp(70,38): error C3646: “pos”: 未知重写说明符
+D:\code\GitCode\源码\MyVector\MyVector.cpp(70,41): error C2143: 语法错误: 缺少“;”(在“]”的前面)
+D:\code\GitCode\源码\MyVector\MyVector.cpp(70,1): error C2234: “()”: 引用数组是非法的
+D:\code\GitCode\源码\MyVector\MyVector.cpp(70,1): error C2059: 语法错误:“)”
+D:\code\GitCode\源码\MyVector\MyVector.cpp(70,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+D:\code\GitCode\源码\MyVector\MyVector.cpp(86,2): error C3646: “_Ty”: 未知重写说明符
+D:\code\GitCode\源码\MyVector\MyVector.cpp(86,5): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+D:\code\GitCode\源码\MyVector\MyVector.cpp(86,1): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+D:\code\GitCode\源码\MyVector\MyVector.cpp(86,1): error C2334: “{”的前面有意外标记；跳过明显的函数体
+D:\code\GitCode\源码\MyVector\MyVector.cpp(52,37): error C2760: 语法错误: 意外标记 "}"，应为 ";"
+D:\code\GitCode\源码\MyVector\MyVector.cpp(53,49): error C2760: 语法错误: 意外标记 "}"，应为 ";"
+D:\code\GitCode\源码\MyVector\MyVector.cpp(55,35): error C2760: 语法错误: 意外标记 "}"，应为 ";"
+D:\code\GitCode\源码\MyVector\MyVector.cpp(56,48): error C2760: 语法错误: 意外标记 "}"，应为 ";"

@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\FileEncryption"
   ],
+  "SelectedNode": "\\FileEncryption\\FileEncryption.cpp",
   "PreviewInSolutionExplorer": false
 }

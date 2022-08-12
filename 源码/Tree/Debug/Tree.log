@@ -1,0 +1,6 @@
+﻿  Build.cpp
+D:\code\GitCode\源码\Tree\Build.cpp(82,27): warning C4018: “<”: 有符号/无符号不匹配
+D:\code\GitCode\源码\Tree\Build.cpp(142,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\code\GitCode\源码\Tree\Build.cpp(149,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\code\GitCode\源码\Tree\Build.cpp(150,27): warning C4018: “<”: 有符号/无符号不匹配
+  Tree.vcxproj -> D:\code\GitCode\源码\Tree\Debug\Tree.exe
